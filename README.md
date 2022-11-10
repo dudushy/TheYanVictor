@@ -1,26 +1,5 @@
 <h1> Hi! My name is Yan :D </h1>
 
-<div align="center">
-    <a href="https://github.com/TheYanVictor">
-        <table style="table-layout: auto;">
-            <tr>
-                <td>
-                    <img style="vertical-align: bottom; display:block; object-fit: cover;" src="https://github-readme-stats.vercel.app/api?username=TheYanVictor&theme=dark&show_icons=true&count_private=true">
-                </td>
-                <td>
-                    <img style="vertical-align: bottom; display:block; object-fit: cover;" src="https://github-readme-streak-stats.herokuapp.com/?user=TheYanVictor&theme=dark">
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <img style="vertical-align: bottom; display:block; object-fit: cover;" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheYanVictor&theme=dark&layout=compact">
-                </td>
-            </tr>
-        </table>
-    </a>
-</div>
-
--------
 ## :bar_chart: My Stats:
 [![profile_visits](https://komarev.com/ghpvc/?username=TheYanVictor&color=blueviolet&style=flat-square&label=Profile+Visits)](https://github.com/TheYanVictor "since Dec 25, 2021")
 [![profile-stars](https://img.shields.io/github/stars/TheYanVictor?label=Profile+Stars)](https://github.com/TheYanVictor)
