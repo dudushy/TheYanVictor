@@ -27,8 +27,10 @@
 
 
 -------
+
 <h2>My otaku preference </h2>
 <img src="https://github.com/TheYanVictor/TheYanVictor/blob/main/roger-vs-barba-branca.gif" alt="This will display an animated GIF" />
+
 -------
 <h2>My Social Media </h2>
 </div>
@@ -38,7 +40,6 @@
 ------
 <h2>My Snake Game </h2>
 
-#Snake Game
   ![Snake animation](https://github.com/TheYanVictor/TheYanVictor/blob/output/github-contribution-grid-snake.svg)
   
 ------
