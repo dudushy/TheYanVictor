@@ -30,17 +30,18 @@
 <h2>My otaku preference </h2>
 <img src="https://github.com/TheYanVictor/TheYanVictor/blob/main/roger-vs-barba-branca.gif" alt="This will display an animated GIF" />
 -------
- #Social Media
+<h2>My Social Media </h2>
 </div>
   <a href="https://www.instagram.com/yanvrm/" target="_blank"><img align="middle" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/the-yan-victor/" target="_blank"><img align="middle" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 ------
+<h2>My Snake Game </h2>
 #Snake Game
   ![Snake animation](https://github.com/TheYanVictor/TheYanVictor/blob/output/github-contribution-grid-snake.svg)
   
 ------
-#My infos
+<h2>My Infos </h2>
 </div>
  
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=TheYanVictor&repo=TheYanVictor&theme=react)](https://github.com/TheYanVictor/TheYanVictor)
