@@ -37,6 +37,7 @@
   
 ------
 <h2>My Snake Game </h2>
+
 #Snake Game
   ![Snake animation](https://github.com/TheYanVictor/TheYanVictor/blob/output/github-contribution-grid-snake.svg)
   
