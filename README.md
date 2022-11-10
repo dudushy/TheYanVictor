@@ -27,7 +27,7 @@
   <a href="https://www.linkedin.com/in/the-yan-victor/" target="_blank"><img align="middle" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 ------
- 
+ <h2> Me here </h2>
   ![Snake animation](https://github.com/TheYanVictor/TheYanVictor/blob/output/github-contribution-grid-snake.svg)
   
 ------
