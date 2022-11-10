@@ -1,7 +1,7 @@
 <h1> Hi! My name is Yan :D </h1>
 
 <div>
-  <a href="https://github.com/ellen2121">
+  <a href="https://github.com/TheYanVictor">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=TheYanVictor&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheYanVictor&layout=compact&langs_count=7&theme=react" />
 
@@ -27,4 +27,4 @@
  
 </div>
  
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=ELLEN2121&repo=ELLEN2121&theme=react)](https://github.com/ELLEN2121/ELLEN2121)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=TheYanVictor&repo=TheYanVictor&theme=react)](https://github.com/TheYanVictor/TheYanVictor)
