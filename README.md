@@ -20,9 +20,6 @@
                 <td>
                     <img style="vertical-align: bottom; display:block; object-fit: cover;" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheYanVictor&theme=dark&layout=compact">
                 </td>
-                <td>
-                    <img style="vertical-align: bottom; display:block; object-fit: fill;" height="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=TheYanVictor&layout=compact" title="last 7 days">
-                </td>
             </tr>
         </table>
     </a>
