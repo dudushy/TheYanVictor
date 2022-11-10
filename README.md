@@ -28,7 +28,7 @@
 
 -------
 #GIF
-img src="https://github.com/TheYanVictor/TheYanVictor/blob/main/roger-vs-barba-branca.gif" alt="This will display an animated GIF" />
+<img src="https://github.com/TheYanVictor/TheYanVictor/blob/main/roger-vs-barba-branca.gif" alt="This will display an animated GIF" />
 -------
  #Social Media
 </div>
