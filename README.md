@@ -27,6 +27,11 @@
 
 
 -------
+<div>
+    <img align="center" width="148" height="180" src="https://media.tenor.com/bjOh64ycnYQAAAAC/roger-vs-barba-branca.gif">
+</div>
+
+-------
   
 </div>
   <a href="https://www.instagram.com/yanvrm/" target="_blank"><img align="middle" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
