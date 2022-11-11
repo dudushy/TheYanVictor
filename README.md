@@ -43,8 +43,3 @@
 
   ![Snake animation](https://github.com/TheYanVictor/TheYanVictor/blob/output/github-contribution-grid-snake.svg)
   
-------
-<h2>My Infos </h2>
-</div>
- 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=TheYanVictor&repo=TheYanVictor&theme=react)](https://github.com/TheYanVictor/TheYanVictor)
