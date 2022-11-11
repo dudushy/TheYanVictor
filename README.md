@@ -1,7 +1,7 @@
 <h1> Hi! My name is Yan :D </h1>
 
 ## :bar_chart: My Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheYanVictor&theme=great-gatsby&show_icons=true)
+[![profile_visits](https://komarev.com/ghpvc/?username=TheYanVictor&theme=great-gatsby&style=flat-square&label=Profile+Visits)](https://github.com/TheYanVictor "since Dec 25, 2021")
 [![profile-stars](https://img.shields.io/github/stars/TheYanVictor?label=Profile+Stars)](https://github.com/TheYanVictor)
 [![github](https://img.shields.io/github/followers/TheYanVictor?logo=github)](https://github.com/TheYanVictor?tab=followers)
 
