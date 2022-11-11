@@ -4,6 +4,7 @@
 [![profile_visits](https://komarev.com/ghpvc/?username=TheYanVictor&color=blueviolet&style=flat-square&label=Profile+Visits)](https://github.com/TheYanVictor "since Dec 25, 2021")
 [![profile-stars](https://img.shields.io/github/stars/TheYanVictor?label=Profile+Stars)](https://github.com/TheYanVictor)
 [![github](https://img.shields.io/github/followers/TheYanVictor?logo=github)](https://github.com/TheYanVictor?tab=followers)
+[![](https://github.com/TheYanVictor/TheYanVictor/raw/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/TheYanVictor) 
 
 <div align="center">
     <a href="https://github.com/TheYanVictor">
